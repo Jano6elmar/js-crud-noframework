@@ -12,7 +12,7 @@ document.querySelector('#app').innerHTML = `
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
     </a>
-    <h1 id="app-tittle">Hello Vite!</h1>
+    <h1 id="app-tittle">Crud App NoFrameWork</h1>
     <div class="card">
     </div>
     
